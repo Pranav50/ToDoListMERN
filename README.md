@@ -4,7 +4,7 @@
 
 ## Quick Start
 
-Add your MONGO_URI to the default.json file.
+Create config folder and in that create keys.json file, after that Add your Mongo URI
 
 ```bash
 # Install dependencies for server
